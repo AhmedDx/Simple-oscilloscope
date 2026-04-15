@@ -24,7 +24,7 @@ The main objectives of this project are:
 - Cap (2)
 
 ##  🔍 MAX7219 4‑in‑1 8×8 LED Matrix Module
-![MAX7219 4‑in‑1 8×8 LED Matrix Module]([https://www.build-electronic-circuits.com/wp-content/uploads/2022/09/Truth-table-NAND-gate.png](https://makerselectronics.com/wp-content/uploads/2023/04/lcd-01-090-3-1500x1500-1-1500x1500.jpg))
+![MAX7219 4‑in‑1 8×8 LED Matrix Module](https://makerselectronics.com/wp-content/uploads/2023/01/lcd-01-090-1-560x560.jpg)
 
 The MAX7219 4-in-1 8×8 LED Matrix Module is a display device used to control multiple LED matrices efficiently using a microcontroller such as the Arduino Uno.
 
