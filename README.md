@@ -32,8 +32,7 @@ This module contains four 8×8 LED matrices connected together and driven by the
 
 
 ## 👨‍💻Software Application
-The circuit was designed and tested using Proteus Design Suite, a professional software tool widely used for electronic circuit design and simulation.
-Proteus allows engineers and students to create electronic schematics, simulate circuit behavior, and verify circuit performance before building the physical hardware.
+The circuit was designed and tested using simulide
 
 ## 💯 How the System Works
 1. The analog signal is connected to one of the analog input pins of the Arduino.
